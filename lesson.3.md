@@ -40,4 +40,4 @@
 
 
 
-<img width="850" height="635" alt="а" src="https://github.com/user-attachments/assets/5f120a3b-cc87-4bc0-9b2c-ac18d1ccc49a" />
+<img width="758" height="591" alt="а" src="https://github.com/user-attachments/assets/0d7dc982-cb80-4244-aaff-54d95b3a08b9" />
