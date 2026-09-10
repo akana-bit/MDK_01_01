@@ -1,4 +1,3 @@
-<img width="850" height="635" alt="а" src="https://github.com/user-attachments/assets/3b7c085f-7cbb-4a92-897e-b4044335fca8" />
 # Векторы и строки
 Вектор (std::vector) и строка (std::string) — это важные базовые контейнеры стандартной библиотеки C++. Они хранят свои элементы в непрерывном фрагменте памяти.
 Оба этих контейнера предоставляют доступ к элементам по индексу и позволяют эффективно добавлять новые элементы в конец.
@@ -41,3 +40,9 @@
 
 
 <img width="758" height="591" alt="а" src="https://github.com/user-attachments/assets/0d7dc982-cb80-4244-aaff-54d95b3a08b9" />
+
+# Добавление и удаление элементов
+
+
+<img width="774" height="691" alt="f" src="https://github.com/user-attachments/assets/7af211ab-3956-4195-b546-9d3eae728b96" />
+
